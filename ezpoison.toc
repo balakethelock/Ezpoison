@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: ezpoison
+## Notes: /ezpoison slash command to cleanse poison charge in naxxramas
+## Author: balake
+## Version: 1.0
+ezpoison.xml
